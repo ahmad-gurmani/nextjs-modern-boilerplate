@@ -28,8 +28,8 @@ A comprehensive, production-ready Next.js boilerplate with modern tooling, authe
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd colleby_web
+   git clone https://github.com/ahmad-gurmani/nextjs-modern-boilerplate.git
+   cd 
    ```
 
 2. **Install dependencies**
