@@ -6,7 +6,7 @@ import { ErrorBoundary } from "../components/ui/error-boundary";
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body>
+      <body suppressHydrationWarning>
         <ErrorBoundary>
           <QueryProvider>
             <ZustandProvider>
